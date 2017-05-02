@@ -2,7 +2,6 @@
 
 /**
  * Enter description here ...
- * @author jeff
  *
  */
 class WebBaseInit {
